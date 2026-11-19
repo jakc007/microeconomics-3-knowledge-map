@@ -32,6 +32,7 @@ Content and examples were checked against the course PDFs supplied for this proj
 
 ## Scope and caveats
 
-The graph has 35 concept cards and 55 directed relationships. It emphasizes material relevant to rapid midterm review. The diagrams are generated from explicit functions in `app.js`, so they stay sharp at any screen size. They are teaching diagrams; the card text gives the exact exercise numbers where applicable. Source references are filenames and PDF pages because the course files themselves are not redistributed.
+The graph has 36 concept cards and 58 directed relationships. It emphasizes material relevant to rapid midterm review. The diagrams are generated from explicit functions in `app.js`, so they stay sharp at any screen size. They are teaching diagrams; the card text gives the exact exercise numbers where applicable. Source references are filenames and PDF pages because the course files themselves are not redistributed.
+
 
 
